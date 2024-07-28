@@ -1,2 +1,2 @@
 # CodSoft1
-This repository contains my project of CodSoft Internship.
+This repository contains my CodSoft Internship Projects.
